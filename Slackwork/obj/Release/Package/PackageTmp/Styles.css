@@ -1,0 +1,39 @@
+﻿body 
+{
+     background-color:Gray;
+     background-image:url('Images/Lime_HRes.jpg');   
+     background-position:center;
+     background-repeat:no-repeat; 
+    
+}
+
+.Layout
+{
+    background-color:#FF944D;
+    min-height:50px;
+    clear:both;
+}
+#divFooter
+{
+  bottom:0px;
+}
+#divHead
+{
+
+}
+#divBody
+{    
+    
+     margin-right:auto;
+     margin-left:auto;
+     width:90%;
+     height:95%;
+
+}
+#divIndex
+{
+    background-color:#ffffff;
+    opacity:0.8; /* Css3*/
+    clear:both;
+    height:500px;   
+}   

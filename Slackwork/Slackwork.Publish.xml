@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftps://www.slackwork.com:21" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="Magnus" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIFPZd6N+2ku0GZ/Nz3N3vwAAAAACAAAAAAAQZgAAAAEAACAAAAAIL0OFwS/bF6GLOdOEEJgt04ZAJ1Wnh84pjL4XemYLYgAAAAAOgAAAAAIAACAAAADWwW1s5o4WWRW+Au+9JiC4pYW/B6jEydyG040RQFJeZSAAAADH7j2Md5c/2Td+oYRrhWDJm6n52rqlLrpORK9OwsNgCUAAAADH9ZKjIKsBVkYxr1lNvpc8tpbcKDBteLOs7PrqTRbVOtSfxC2AN8xvX/LMlTP+fxPnFIOIS7AYR6bQKKRM30O/" SelectedForPublish="True">
+    <file relUrl="default.aspx" publishTime="02/20/2012 18:00:54" />
+    <file relUrl="Images/tropical_HRes.jpg" publishTime="02/16/2012 13:01:05" />
+    <file relUrl="bin/Slackwork.pdb" publishTime="02/20/2012 18:29:23" />
+    <file relUrl="Web.config" publishTime="02/20/2012 18:29:25" />
+    <file relUrl="bin/Slackwork.dll" publishTime="02/20/2012 18:29:23" />
+    <file relUrl="Main.Master" publishTime="02/20/2012 18:00:38" />
+    <file relUrl="Images/Lime_HRes.jpg" publishTime="02/16/2012 13:25:18" />
+    <file relUrl="Styles.css" publishTime="02/20/2012 18:27:33" />
+    <file relUrl="gallery.aspx" publishTime="02/20/2012 18:23:48" />
+  </publishProfile>
+</publishData>
