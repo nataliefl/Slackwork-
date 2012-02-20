@@ -1,39 +1,58 @@
 ﻿body 
 {
-     background-color:Gray;
-     background-image:url('Images/Lime_HRes.jpg');   
-     background-position:center;
-     background-repeat:no-repeat; 
-    
+     background-color:#474142;    
 }
 
 .Layout
 {
-    background-color:#FF944D;
-    min-height:50px;
-    clear:both;
+    background-color:#DB0735;
+    
 }
 #divFooter
 {
-  bottom:0px;
+  text-align:right;
 }
-#divHead
-{
 
-}
+/*Main body div, all content goes in here*/
 #divBody
-{    
-    
-     margin-right:auto;
-     margin-left:auto;
-     width:90%;
-     height:95%;
-
+{
+     margin: 0 auto;
+     width:95%;
+    min-width: 800px;
 }
+/*End Main body div*/
 #divIndex
 {
     background-color:#ffffff;
-    opacity:0.8; /* Css3*/
-    clear:both;
-    height:500px;   
+    margin-top:1%;
+    margin-bottom:1%; 
+    min-height:300px;
+      
+}
+#divGalleryTab
+{
+    height :auto;
+    width: inherit;
+    padding-left:10px;
+    padding-top:10px;
+    
+}
+/* Head divs*/
+#divHead {
+    position: relative;
+    min-height: 100px;
+    padding-bottom: 0;
 }   
+#divLinks 
+{
+
+    padding: 5px;
+    float: left;
+} 
+#divLogin 
+{
+
+    padding: 5px;
+    float: right;
+} 
+/* End Head divs*/ 

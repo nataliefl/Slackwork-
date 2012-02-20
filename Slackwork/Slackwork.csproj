@@ -64,6 +64,7 @@
     </Content>
     <Content Include="default.aspx" />
     <Content Include="gallery.aspx" />
+    <Content Include="studies.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.Master.cs">
@@ -92,6 +93,13 @@
     </Compile>
     <Compile Include="gallery.aspx.designer.cs">
       <DependentUpon>gallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="studies.aspx.cs">
+      <DependentUpon>studies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="studies.aspx.designer.cs">
+      <DependentUpon>studies.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -6,3 +6,11 @@ C:\Users\Magnus\Documents\Visual Studio 2010\Projects\Slackwork\Slackwork\obj\De
 C:\Users\Magnus\Documents\Visual Studio 2010\Projects\Slackwork\Slackwork\obj\Debug\GenerateResource.write.1.tlog
 C:\Users\Magnus\Documents\Visual Studio 2010\Projects\Slackwork\Slackwork\obj\Debug\Slackwork.dll
 C:\Users\Magnus\Documents\Visual Studio 2010\Projects\Slackwork\Slackwork\obj\Debug\Slackwork.pdb
+D:\Skole\Repositories\Slackwork\Slackwork\bin\Slackwork.dll
+D:\Skole\Repositories\Slackwork\Slackwork\bin\Slackwork.pdb
+D:\Skole\Repositories\Slackwork\Slackwork\obj\Debug\ResolveAssemblyReference.cache
+D:\Skole\Repositories\Slackwork\Slackwork\obj\Debug\Slackwork.Properties.Resources.resources
+D:\Skole\Repositories\Slackwork\Slackwork\obj\Debug\GenerateResource.read.1.tlog
+D:\Skole\Repositories\Slackwork\Slackwork\obj\Debug\GenerateResource.write.1.tlog
+D:\Skole\Repositories\Slackwork\Slackwork\obj\Debug\Slackwork.dll
+D:\Skole\Repositories\Slackwork\Slackwork\obj\Debug\Slackwork.pdb

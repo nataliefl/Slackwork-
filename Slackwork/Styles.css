@@ -13,16 +13,19 @@
   text-align:right;
 }
 
+/*Main body div, all content goes in here*/
 #divBody
-{      
-     margin-right:auto;
-     margin-left:auto;
+{
+     margin: 0 auto;
      width:95%;
+    min-width: 800px;
 }
+/*End Main body div*/
 #divIndex
 {
     background-color:#ffffff;
-    height:95%;
+    margin-top:1%;
+    margin-bottom:1%; 
     min-height:300px;
       
 }
@@ -34,3 +37,22 @@
     padding-top:10px;
     
 }
+/* Head divs*/
+#divHead {
+    position: relative;
+    min-height: 100px;
+    padding-bottom: 0;
+}   
+#divLinks 
+{
+
+    padding: 5px;
+    float: left;
+} 
+#divLogin 
+{
+
+    padding: 5px;
+    float: right;
+} 
+/* End Head divs*/ 
