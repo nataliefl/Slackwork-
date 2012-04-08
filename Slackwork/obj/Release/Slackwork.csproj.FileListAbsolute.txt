@@ -14,3 +14,11 @@ D:\Skole\Repositories\Slackwork\Slackwork\obj\Release\GenerateResource.read.1.tl
 D:\Skole\Repositories\Slackwork\Slackwork\obj\Release\GenerateResource.write.1.tlog
 D:\Skole\Repositories\Slackwork\Slackwork\obj\Release\Slackwork.dll
 D:\Skole\Repositories\Slackwork\Slackwork\obj\Release\Slackwork.pdb
+D:\VS\Slackwork\Slackwork\bin\Slackwork.dll
+D:\VS\Slackwork\Slackwork\bin\Slackwork.pdb
+D:\VS\Slackwork\Slackwork\obj\Release\ResolveAssemblyReference.cache
+D:\VS\Slackwork\Slackwork\obj\Release\Slackwork.Properties.Resources.resources
+D:\VS\Slackwork\Slackwork\obj\Release\GenerateResource.read.1.tlog
+D:\VS\Slackwork\Slackwork\obj\Release\GenerateResource.write.1.tlog
+D:\VS\Slackwork\Slackwork\obj\Release\Slackwork.dll
+D:\VS\Slackwork\Slackwork\obj\Release\Slackwork.pdb

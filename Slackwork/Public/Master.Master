@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Slackwork.Public.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>slackwork.com</title>
+     <link type="text/css" href="~/Resources/styles.css" rel="stylesheet"/>      
+    <asp:ContentPlaceHolder ID="head" runat="server">
+     
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="MasterContentContainer" runat="server">
+        <div id="MasterMenu" >
+            <asp:LinkButton ID="btnCinema" runat="server">Videos</asp:LinkButton>
+            <asp:LinkButton ID="btnHome" runat="server">Home</asp:LinkButton></div>
+        
+        <div id="MasterContent" runat="server">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    </form>
+</body
+</html>

@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Slackwork
+namespace Slackwork.Public
 {
 
 
-    public partial class WebForm1
+    public partial class _default
     {
     }
 }

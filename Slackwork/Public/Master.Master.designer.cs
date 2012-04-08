@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Slackwork {
+namespace Slackwork.Public {
     
     
-    public partial class Main {
+    public partial class Master {
         
         /// <summary>
         /// head control.
@@ -31,49 +31,40 @@ namespace Slackwork {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// lbt1 control.
+        /// MasterContentContainer control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lbt1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl MasterContentContainer;
         
         /// <summary>
-        /// lbt2 control.
+        /// btnCinema control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lbt2;
+        protected global::System.Web.UI.WebControls.LinkButton btnCinema;
         
         /// <summary>
-        /// LinkButton1 control.
+        /// btnHome control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
+        protected global::System.Web.UI.WebControls.LinkButton btnHome;
         
         /// <summary>
-        /// TextBox1 control.
+        /// MasterContent control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
-        
-        /// <summary>
-        /// TextBox2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl MasterContent;
         
         /// <summary>
         /// ContentPlaceHolder1 control.
