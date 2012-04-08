@@ -1,0 +1,46 @@
+﻿Code version: 6.1.1000.82
+Assembly name System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 mvid {8f2c5602-6fa4-4dbf-83b8-86756b274c77}
+* ref mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {fcb9dac8-ae3a-4886-93b0-f4cd5b0db0be}
+* ref System.Runtime.DurableInstancing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {942a2243-d1fb-44e6-a6b8-b1b67e8314b0}
+* ref System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {3ff14558-01d6-4b84-9f36-a256b5f3e196}
+* ref System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {9459c93d-5962-4eeb-ac3f-be1a71158463}
+* ref System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {5cf0fd1d-1fd0-4bba-a252-1ada56614cc6}
+* ref System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {0467f5c0-e463-4b2c-acc5-f718cb71f056}
+* ref System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {988a97e5-8665-4494-a7b2-6de411f61284}
+* ref System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {03fd13f2-8aca-4d0a-8cb7-cbeefe8b0d61}
+* ref SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {89ca8717-bc30-485e-bbe5-7c6d5d4fbd83}
+* ref System.IdentityModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {cf138cb8-4c1c-49b3-8187-854624de4857}
+* ref System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {7728b717-99ea-4089-ab66-896b4d6f9968}
+* ref System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {c08d55d3-6463-439d-b112-60f6502ec141}
+* ref System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {d7721d29-fda9-4acb-8747-27ac5a4490f8}
+* ref System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {89211486-467f-4ece-b3f2-0ed8a698c5fc}
+* ref System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {13ddbcce-c5ed-4cc3-b446-7da4aabd4f5b}
+* ref System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {b1acf4e4-d5a6-452c-9276-e601578405f8}
+* ref System.Messaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {9c0c8b4b-193e-424f-947b-0f9596cd463e}
+* ref System.IdentityModel.Selectors, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {cdfbb734-703f-442d-bea5-cb919c58e72a}
+* ref System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {5551d0c8-47f6-4152-9561-bccb644f068b}
+* ref Microsoft.Transactions.Bridge, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {79618c7f-cd03-4018-8668-3df6ce3fc498}
+* ref System.ServiceModel.Activation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {7b6309fc-28c9-419b-ae70-b1f6450bfba0}
+* ref System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {bf855c77-22f1-4a61-88ec-6d32b7bb48fb}

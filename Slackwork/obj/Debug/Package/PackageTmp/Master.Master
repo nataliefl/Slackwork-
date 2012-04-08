@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Slackwork.Public.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <title>slackwork.com</title>
+        <link type="text/css" href="~/Resources/styles.css" rel="stylesheet"/>      
+        <asp:ContentPlaceHolder ID="head" runat="server">
+     
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <form id="form1" runat="server">
+            <div class="MainLayout" id="PageWrapper">
+                <div class="PageLayout" id="Header">
+                     Header Logo
+                </div>
+                <div id="Menu">
+                        Menu
+                    </div>
+                <div id="ContentWrapper">
+                    <div id="LeftColumn">
+                        Left Content
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    <div id="RightColumn">
+                         Right Content
+                    </div>
+                </div>
+                <div class="PageLayout"  id="Footer">
+                     Footer
+                </div>
+              
+            </div>
+        </form>
+    </body
+</html>
