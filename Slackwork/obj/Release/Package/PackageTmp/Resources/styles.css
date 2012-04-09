@@ -12,48 +12,51 @@
     overflow: hidden;
 }
 
-#Header 
-{
+#Header
+{    
     top: 0;
     margin-left: 0;
     height: 100px;
-    background-color: green;
 }
+#Header ul
+{
+    padding-top: 5px;
+}
+
 /**
 Content
 **/
 #LeftColumn 
 {
+    border: 1px solid black;
     width: 850px;
-    background-color: red;
     height: 100%;
     float: left;
 }
 #RightColumn 
 {
+    border: 1px solid black;
     width: 200px;
     height: 100%;
-    background-color: yellow;
     float: right;
 
 }
 #ContentWrapper 
 {
+    border: 1px solid black;
     margin-left: 120px;
     margin-right: 0px;
     height: 100%;
-    background-color: chartreuse;
 }
 /**
 End Content
 **/
 #Menu 
 {
+    border: 1px solid black;
     position: absolute;
     height: 100%;
-    position: absolute;
     width: 120px;
-    background-color: coral;
 }
 #Footer 
 {
@@ -61,7 +64,7 @@ End Content
     width: 100%;
     bottom: 0;
     height: 30px;
-    background-color: cyan;
+    border: 1px solid black;
 }
 
 /**

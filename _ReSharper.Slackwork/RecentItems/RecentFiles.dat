@@ -1,43 +1,43 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master.cs" caret="330" fromTop="13" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:video.aspx.cs" caret="0" fromTop="0" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:video.aspx" caret="61" fromTop="0" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:default.aspx" caret="61" fromTop="0" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="731" fromTop="13" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="0" fromTop="0" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Web.config" caret="265" fromTop="9" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master.cs" caret="330" fromTop="13" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:video.aspx.cs" caret="0" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:video.aspx" caret="61" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Web.config" caret="0" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:default.aspx" caret="0" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1838" fromTop="32" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="784" fromTop="52" />
   </RecentFiles>
   <RecentEdits>
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="1427" fromTop="2" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="1146" fromTop="20" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="1203" fromTop="25" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="1082" fromTop="13" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="1008" fromTop="7" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="1545" fromTop="22" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="1457" fromTop="16" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="1485" fromTop="11" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="977" fromTop="9" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="946" fromTop="20" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="988" fromTop="17" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="1251" fromTop="23" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="1387" fromTop="27" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="980" fromTop="28" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="784" fromTop="7" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="872" fromTop="22" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="784" fromTop="16" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1428" fromTop="9" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="781" fromTop="20" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1439" fromTop="17" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1702" fromTop="23" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1838" fromTop="27" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="784" fromTop="28" />
     <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="70" fromTop="2" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="265" fromTop="15" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="575" fromTop="19" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="353" fromTop="6" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="711" fromTop="31" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="909" fromTop="29" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="803" fromTop="28" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="970" fromTop="27" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:Master.Master" caret="907" fromTop="15" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="496" fromTop="19" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="391" fromTop="12" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="662" fromTop="17" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="601" fromTop="31" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="744" fromTop="29" />
     <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="133" fromTop="7" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="208" fromTop="10" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:default.aspx" caret="61" fromTop="0" />
-    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/f:video.aspx" caret="61" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:default.aspx" caret="61" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:video.aspx" caret="61" fromTop="0" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="716" fromTop="12" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1199" fromTop="20" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="216" fromTop="8" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="321" fromTop="19" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="318" fromTop="16" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1217" fromTop="15" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="474" fromTop="14" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="587" fromTop="23" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Public/f:Master.Master" caret="1928" fromTop="10" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="624" fromTop="9" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="519" fromTop="5" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="436" fromTop="6" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="359" fromTop="2" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="178" fromTop="9" />
+    <File id="E834CB46-2070-459A-919E-15E5BBFFE2B5/d:Resources/f:styles.css" caret="784" fromTop="4" />
   </RecentEdits>
 </RecentFiles>
