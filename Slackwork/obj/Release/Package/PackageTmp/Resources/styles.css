@@ -7,8 +7,7 @@
     position: relative;
     width: 1200px;
     height: 1000px;
-    margin: 0 auto;
-    border: 1px solid black;   
+    margin: 0 auto; 
     overflow: hidden;
 }
 
@@ -28,14 +27,12 @@ Content
 **/
 #LeftColumn 
 {
-    border: 1px solid black;
     width: 850px;
     height: 100%;
     float: left;
 }
 #RightColumn 
 {
-    border: 1px solid black;
     width: 200px;
     height: 100%;
     float: right;
@@ -43,7 +40,6 @@ Content
 }
 #ContentWrapper 
 {
-    border: 1px solid black;
     margin-left: 120px;
     margin-right: 0px;
     height: 100%;
@@ -53,7 +49,6 @@ End Content
 **/
 #Menu 
 {
-    border: 1px solid black;
     position: absolute;
     height: 100%;
     width: 120px;
@@ -64,45 +59,7 @@ End Content
     width: 100%;
     bottom: 0;
     height: 30px;
-    border: 1px solid black;
 }
-
-/**
-Master page styling
-
-#Logo 
-{
-    display: block;
-}
-#ContentWrapper {
-    width: 1024px;
-    margin: 0 auto;
-
-}
-#MasterContent 
-{
-    float: left;
-    width: 800px;
-}
-#MasterMenu 
-{
-    float: left;
-    background-color: #FFFFFF;
-    width: 100px;
-    
-}
-table.menu a {
-    display: block;
-    width: 100px;
-    text-decoration: none;
-    text-align: center;
-}
-.MainLayout 
-{  
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-}
-**/
 /**
 Video page styling
 **/
