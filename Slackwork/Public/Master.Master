@@ -13,11 +13,21 @@
     <body>
         <form id="form1" runat="server">
             <div class="MainLayout" id="PageWrapper">
-                <div class="PageLayout" id="Header">
-                     Header Logo
+                <div class="PageLayout" id="Header"> 
+                     <img src="../Resources/Images/Slackwork.png" alt="Logo"/>
                 </div>
                 <div id="Menu">
-                        Menu
+                        <ul>
+                            <li>
+                                <a href="#">Home</a>
+                            </li>
+                            <li>
+                               <a href="#">Videos</a>
+                            </li>
+                            <li>
+                                <a href="#">Gallery</a>
+                            </li>
+                        </ul>
                     </div>
                 <div id="ContentWrapper">
                     <div id="LeftColumn">
